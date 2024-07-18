@@ -1,0 +1,32 @@
+h2 {
+    color: green;
+}
+
+h3 {
+    color: darkslategray;
+}
+
+.secciones  {
+    color: darkorchid ;
+    background-color: lightgrey ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    h2 {
+        color: royalblue;
+    }
+    
+}
+
+.image-profile{
+    border-radius: 10%;
+}
+
+.profile-description{
+    color:darkblue;
+}
+.skills{
+    color: lightyellow;
+    background-color:mediumspringgreen;
+}
+a{
+    text-decoration: none;
+}
